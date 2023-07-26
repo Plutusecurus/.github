@@ -18,7 +18,12 @@ It helps users to:
   ```bash
   git clone https://github.com/shagil77/Plutusecurus
 ```
-[*Download the Application*](https://drive.google.com/drive/folders/1qhQvWmiZ3ByVY6IkPVEI-kjt40UngR44?usp=sharing)
+[*Download the Application*](https://drive.google.com/drive/folders/1qhQvWmiZ3ByVY6IkPVEI-kjt40UngR44?usp=drive_link)
+
+* You need two android devices to test this application
+* Download the APK
+* Create an account using your private and public keys
+* Make payments or try out our expense tracker
 
 ## 💭 Features
 
