@@ -24,6 +24,7 @@ It helps users to:
 * Download the APK
 * Create an account using your private and public keys
 * Make payments or try out our expense tracker
+* For making payments INR->ETH used a dummy credit card number (4111111111111)
 
 ## 💭 Features
 
